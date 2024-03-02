@@ -43,11 +43,13 @@ class BankAccount:
     def withdraw(self, amount):
         self.balance -= amount
 
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
     
     def get_balance(self):
         return self.balance
 Contributing
 Contributions are welcome! If you have suggestions for improving the experiments or extending the project, please feel free to fork the repository, make your changes, and submit a pull request.
+
+
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
